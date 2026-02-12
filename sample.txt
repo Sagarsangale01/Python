@@ -1,0 +1,4 @@
+HEllo sagar. 
+this is the content which is added by me.
+HEllo sagar this is the content which is added by meNow this using writelines function.
+WRITE LINES
